@@ -1,0 +1,2 @@
+# R-Lab-Mini-Project
+WATER POTABILITY PREDICTION
